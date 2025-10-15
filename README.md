@@ -6,7 +6,7 @@ End-to-end sales analytics project using SQL and Tableau
 This project analyses the sales performance of **AtliQ Hardware**, a computer hardware supplier headquartered in Delhi with over **10 regional offices** across India and a portfolio of more than **270 products**. The objective was to transform raw transactional data into meaningful insights on revenue and profitability using **SQL** and **Tableau**.  
 
 <p align="center">
-  <img src="https://ironstark007.github.io/Portfolio/images/portfolio/487090-company-logo.png" alt="AtliQ Hardware Logo" width="500"/>
+  <img src="https://ironstark007.github.io/Portfolio/images/portfolio/487090-company-logo.png" alt="AtliQ Hardware Logo" width="400"/>
 </p>
 
 ## Problem Statement
@@ -18,22 +18,24 @@ To overcome this, the leadership required a data-driven visualization system tha
 ## This Project Covers  
 
 ### Data Analysis Using SQL  
-- Created relational tables for customers, products, markets, and sales in **MySQL**.  
-- Wrote SQL queries to join multiple tables, remove inconsistencies, and prepare the dataset for visualization.  
-- Generated aggregated metrics such as total sales, total revenue, and profit margins.  
-
-### Data Cleaning and ETL  
-- Connected MySQL database to **Tableau Desktop** for in-tool ETL.  
-- Cleaned and normalized data:  
-  - Removed invalid and negative values.  
-  - Converted transactions from USD to INR.  
-  - Created calculated fields for revenue, profit margin %, and total sales.  
+- Imported the database into **MySQL Workbench** to access Customers, Products, Markets, and Transactions tables.   
+- Joined multiple tables, removed inconsistencies, and prepared the data for analysis.  
+- Performed data analysis using **SQL queries** and arrived at key metrics including Total Sales, Total Revenue, and Profit Margins.
+    
+### Data Cleaning and ETL 
+- Connected MySQL database to **Tableau Desktop** for in-tool ETL operations.  
+- Cleaned and normalised the data using **Calculated Fields**:  
+  1. Filtered out and removed invalid and negative values.  
+  2. Converted transaction amounts from USD to INR.
+- Created a data model by loading the transformed data into a **Tableau Workbook**, establishing relationships between tables.
+- Designed the **star schema** structure to support interactive dashboard visualisations.
+  
 
 ### Tableau Dashboards  
 - Designed two interactive dashboards in Tableau:  
-  - **Revenue Dashboard** – shows sales trends, top-performing products, and key customers.  
-  - **Profit Dashboard** – visualizes profitability by market, customer, and product category.  
-- Used filters, drill-downs, and KPIs for easy stakeholder interpretation.  
+  1. **Revenue Dashboard** – shows sales trends, top-performing products, and key customers.  
+  2. **Profit Dashboard** – visualizes profitability by market, customer, and product category.  
+- Incorporated filters, drill-downs, and KPIs for easy stakeholder interpretation.  
 
 ## Dashboard Preview  
 
@@ -64,11 +66,11 @@ The Revenue dashboard summarizes overall performance with **Total Sales Quantity
 
 ## Insights  
 
-1. Identified underperforming regions and products.  
-2. Found key customers contributing the highest revenue and profit margins.
-3. Observed monthly revenue and profit trends to highlight seasonal patterns and growth opportunities.
-4. Determined top-performing product categories and their impact on overall profitability.    
-5. Provided a visual summary of business performance for strategic decision-making.  
+- Identified underperforming regions and products.
+- Found key customers contributing the highest revenue and profit margins.
+- Observed monthly revenue and profit trends to highlight seasonal patterns and growth opportunities.
+- Determined top-performing product categories and their impact on overall profitability.
+- Provided a visual summary of business performance for strategic decision-making.  
 
 ## References  
 
