@@ -1,8 +1,6 @@
 # Sales Analysis  
 End-to-end sales analytics project using SQL and Tableau  
 
----
-
 ## Overview  
 
 This project analyses the sales performance of **AtliQ Hardware**, a computer hardware supplier headquartered in Delhi with regional offices across India.  
@@ -10,8 +8,6 @@ The objective was to transform raw transactional data into meaningful insights o
 <p align="center">
   <img src="(https://ironstark007.github.io/Portfolio/images/portfolio/487090-company-logo.png)" alt="AtliQ Hardware Logo" width="200"/>
 </p>
-
-
 
 
 ## Problem Statement
@@ -48,15 +44,15 @@ To overcome this, the leadership required a data-driven visualization system tha
 
 ### Revenue Dashboard  
 Depicts total revenue, sales quantity, monthly trends, and top contributors.  
-![Revenue Dashboard](tableau/revenue_dashboard.png)
+![Revenue Dashboard](https://github.com/Archana-Pujari/Sales-Analysis/raw/main/tableau_preview/revenue_analysis.png)
 
 ### Profit Dashboard  
 Highlights profit trends, margins, and profitability by region and customer segment.  
-![Profit Dashboard](tableau/profit_dashboard.png)
+![Profit Dashboard](https://github.com/Archana-Pujari/Sales-Analysis/raw/main/tableau_preview/profit_analysis.png)
 
 *(All dashboards were created and viewed locally using Tableau Desktop.)*  
 
----
+
 
 ## Tech Stack Used:  
 
@@ -80,7 +76,7 @@ Highlights profit trends, margins, and profitability by region and customer segm
 
 - [Codebasics: Sales Insights Project Repository](https://github.com/codebasics/DataAnalysisProjects/tree/master/2_SalesInsightsTableau)  
 - [https://dev.mysql.com/doc/](https://dev.mysql.com/doc/)  
-- [https://help.tableau.com/](https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.htm?)  
+- [https://help.tableau.com/current/guides/](https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.htm?)  
 
 
 
