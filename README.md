@@ -8,7 +8,7 @@ This project analyses the sales performance of **AtliQ Hardware**, a computer ha
 The objective was to transform raw transactional data into meaningful insights on revenue and profitability using **SQL** and **Tableau**. 
 
 <p align="center">
-  <img src="https://ironstark007.github.io/Portfolio/images/portfolio/487090-company-logo.png" alt="AtliQ Hardware Logo" width="200"/>
+  <img src="https://ironstark007.github.io/Portfolio/images/portfolio/487090-company-logo.png" alt="AtliQ Hardware Logo" width="400"/>
 </p>
 
 ## Problem Statement
@@ -39,17 +39,19 @@ To overcome this, the leadership required a data-driven visualization system tha
 
 ## Dashboard Preview  
 
-### Revenue Dashboard  
+### Revenue Dashboard 
+
+The Revenue dashboard summarizes overall performance with **Total Sales Quantity ($\text{2.43M}$)** and **Total Revenue ($\text{INR } 986.63\text{M}$)** over the period of October 2017 to June 2020. The **Revenue by Year** line graph illustrates the monthly sales trend, while two bar charts identify the **Top 5 Customers** (led by Electricals Store) and **Top 10 Products** (led by Prod040). Finally, two market-based charts—**Revenue by Markets** and **Sales by Markets (Quantity)**—confirm **Delhi NCR** as the top-performing region in both value and volume.
   
 ![Revenue Dashboard](https://github.com/Archana-Pujari/Sales-Analysis/raw/main/tableau_preview/revenue_analysis.png)
 
-The Revenue dashboard summarizes overall performance with **Total Sales Quantity ($\text{2.43M}$)** and **Total Revenue ($\text{INR } 986.63\text{M}$)** over the period of October 2017 to June 2020. The **Revenue by Year** line graph illustrates the monthly sales trend, while two bar charts identify the **Top 5 Customers** (led by Electricals Store) and **Top 10 Products** (led by Prod040). Finally, two market-based charts—**Revenue by Markets** and **Sales by Markets (Quantity)**—confirm **Delhi NCR** as the top-performing region in both value and volume.
+
 
 ### Profit Dashboard  
+
+ This dashboard is centered on profitability, displaying the **Total Revenue ($\text{INR } 984.88\text{M}$)** and **Total Profit ($\text{INR } 24.66\text{M}$)**. It tracks the **Profit Trend** and margin quarterly from Q4 2017 to Q2 2020, and a **Pie Chart** shows that **Brick & Mortar** is the dominant sales channel at $75.60\%$. The dashboard also features three granular views: **Revenue by Markets**, **Profit by Markets**, and a detailed **Customer Table** with profit and profit margin metrics for various accounts.
  
 ![Profit Dashboard](https://github.com/Archana-Pujari/Sales-Analysis/raw/main/tableau_preview/profit_analysis.png)
-
-This dashboard is centered on profitability, displaying the **Total Revenue ($\text{INR } 984.88\text{M}$)** and **Total Profit ($\text{INR } 24.66\text{M}$)**. It tracks the **Profit Trend** and margin quarterly from Q4 2017 to Q2 2020, and a **Pie Chart** shows that **Brick & Mortar** is the dominant sales channel at $75.60\%$. The dashboard also features three granular views: **Revenue by Markets**, **Profit by Markets**, and a detailed **Customer Table** with profit and profit margin metrics for various accounts.
 
 
 *(All dashboards were created and viewed locally using Tableau Desktop.)*  
