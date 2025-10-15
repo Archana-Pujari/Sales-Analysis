@@ -12,7 +12,7 @@ The objective was to transform raw transactional data into meaningful insights o
 </p>
 
 
----
+
 
 ## Problem Statement
 
@@ -20,7 +20,7 @@ The Sales Director at AtliQ Hardware faced significant challenges in tracking sa
 
 To overcome this, the leadership required a data-driven visualization system that could present real-time sales insights and key performance metrics in a single view, enabling the company to identify gaps, respond to market trends faster, and drive overall business growth.
 
----
+
 
 ## This Project Covers  
 
@@ -42,7 +42,7 @@ To overcome this, the leadership required a data-driven visualization system tha
   - **Profit Dashboard** – visualizes profitability by market, customer, and product category.  
 - Used filters, drill-downs, and KPIs for easy stakeholder interpretation.  
 
----
+
 
 ## Dashboard Preview  
 
@@ -66,7 +66,7 @@ Highlights profit trends, margins, and profitability by region and customer segm
 | **SQL** | Querying, data analysis, joins, and aggregations |
 | **Tableau Desktop** | ETL operations, visualization, and dashboard creation |
 
----
+
 
 ## Insights:  
 
@@ -74,7 +74,7 @@ Highlights profit trends, margins, and profitability by region and customer segm
 - Found key customers contributing the highest revenue and profit margins.  
 - Provided a visual summary of business performance for strategic decision-making.  
 
----
+
 
 ## References:  
 
@@ -82,5 +82,5 @@ Highlights profit trends, margins, and profitability by region and customer segm
 - [https://dev.mysql.com/doc/](https://dev.mysql.com/doc/)  
 - [https://help.tableau.com/](https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.htm?)  
 
----
+
 
