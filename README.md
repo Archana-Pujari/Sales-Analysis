@@ -3,13 +3,11 @@ End-to-end sales analytics project using SQL and Tableau
 
 ## Overview  
 
-This project analyses the sales performance of **AtliQ Hardware**, a computer hardware supplier headquartered in Delhi with over **10 regional offices** across India and a portfolio of more than **270 products**.  
+This project analyses the sales performance of **AtliQ Hardware**, a computer hardware supplier headquartered in Delhi with over **10 regional offices** across India and a portfolio of more than **270 products**. The objective was to transform raw transactional data into meaningful insights on revenue and profitability using **SQL** and **Tableau**.  
 
 <p align="center">
-  <img src="https://ironstark007.github.io/Portfolio/images/portfolio/487090-company-logo.png" alt="AtliQ Hardware Logo" width="350"/>
+  <img src="https://ironstark007.github.io/Portfolio/images/portfolio/487090-company-logo.png" alt="AtliQ Hardware Logo" width="500"/>
 </p>
-
-The objective was to transform raw transactional data into meaningful insights on revenue and profitability using **SQL** and **Tableau**. 
 
 ## Problem Statement
 
@@ -59,18 +57,18 @@ The Revenue dashboard summarizes overall performance with **Total Sales Quantity
 
 ## Tech Stack Used
 
-- **MySQL**: Data storage and management  
+- **MySQL**: Database storage and management  
 - **SQL**: Querying, data analysis, joins, and aggregations  
 - **Tableau Desktop**: ETL operations, visualization, and dashboard creation
 
 
 ## Insights  
 
-- Identified underperforming regions and products.  
-- Found key customers contributing the highest revenue and profit margins.
-- Observed monthly revenue and profit trends to highlight seasonal patterns and growth opportunities.
-- Determined top-performing product categories and their impact on overall profitability.    
-- Provided a visual summary of business performance for strategic decision-making.  
+1. Identified underperforming regions and products.  
+2. Found key customers contributing the highest revenue and profit margins.
+3. Observed monthly revenue and profit trends to highlight seasonal patterns and growth opportunities.
+4. Determined top-performing product categories and their impact on overall profitability.    
+5. Provided a visual summary of business performance for strategic decision-making.  
 
 ## References  
 
