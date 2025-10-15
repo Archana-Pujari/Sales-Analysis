@@ -14,7 +14,7 @@ This project analyses the sales performance of **AtliQ Hardware**, a computer ha
 
 The Sales Director at AtliQ Hardware faced significant challenges in tracking sales performance across the company’s regional offices. As the market expanded rapidly, the traditional reporting process based on verbal updates from regional managers proved inefficient and unreliable. Despite noticing a steady decline in overall sales, there was no concrete data to explain where and why this drop was happening. 
 
-To overcome this, the leadership required a data-driven visualization system that could present real-time sales insights and key performance metrics in a single view, enabling the company to identify gaps, respond to market trends faster, and drive overall business growth.
+To overcome this, the leadership required a data-driven visualisation system that could present real-time sales insights and key performance metrics in a single view, enabling the company to identify gaps, respond to market trends faster, and drive overall business growth.
 
 ## This Project Covers  
 
@@ -34,14 +34,14 @@ To overcome this, the leadership required a data-driven visualization system tha
 ### Tableau Dashboards  
 - Designed two interactive dashboards in Tableau:  
   1. **Revenue Dashboard** – shows sales trends, top-performing products, and key customers.  
-  2. **Profit Dashboard** – visualizes profitability by market, customer, and product category.  
+  2. **Profit Dashboard** – visualises profitability by market, customer, and product category.  
 - Incorporated filters, drill-downs, and KPIs for easy stakeholder interpretation.  
 
 ## Dashboard Preview  
 
 ### 1. Revenue Analysis Dashboard 
 
-The Revenue dashboard summarizes overall performance with **Total Sales Quantity ($\text{2.43M}$)** and **Total Revenue ($\text{INR } 986.63\text{M}$)** over the period of October 2017 to June 2020. The **Revenue by Year** line graph illustrates the monthly sales trend, while two bar charts identify the **Top 5 Customers** (led by Electricals Store) and **Top 10 Products** (led by Prod040). Finally, two market-based charts—**Revenue by Markets** and **Sales by Markets (Quantity)**—confirm **Delhi NCR** as the top-performing region in both value and volume.
+The Revenue dashboard summarises overall performance with **Total Sales Quantity ($\text{2.43M}$)** and **Total Revenue ($\text{INR } 986.63\text{M}$)** over the period of October 2017 to June 2020. The **Revenue by Year** line graph illustrates the monthly sales trend, while two bar charts identify the **Top 5 Customers** (led by Electricals Store) and **Top 10 Products** (led by Prod040). Finally, two market-based charts **Revenue by Markets** and **Sales by Markets (Quantity)** confirm **Delhi NCR** as the top-performing region in both value and volume.
   
 ![Revenue Dashboard](https://github.com/Archana-Pujari/Sales-Analysis/raw/main/tableau/revenue_analysis.png)
 
@@ -58,7 +58,7 @@ The Revenue dashboard summarizes overall performance with **Total Sales Quantity
 
 - **MySQL**: Database storage and management  
 - **SQL**: Querying, data analysis, joins, and aggregations  
-- **Tableau Desktop**: ETL operations, visualization, and dashboard creation
+- **Tableau Desktop**: ETL operations, visualisation, and dashboard creation
 
 ## Insights  
 
