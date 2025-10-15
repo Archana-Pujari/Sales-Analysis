@@ -8,7 +8,7 @@ End-to-end sales analytics project using SQL and Tableau
 This project analyses the sales performance of **AtliQ Hardware**, a computer hardware supplier headquartered in Delhi with regional offices across India.  
 The objective was to transform raw transactional data into meaningful insights on revenue and profitability using **SQL** and **Tableau**. 
 <p align="center">
-  <img src="https://github.com/codebasics/DataAnalysisProjects/raw/master/2_SalesInsightsTableau/images/atliq_logo.png" alt="AtliQ Hardware Logo" width="200"/>
+  <img src="(https://ironstark007.github.io/Portfolio/images/portfolio/487090-company-logo.png)" alt="AtliQ Hardware Logo" width="200"/>
 </p>
 
 
@@ -22,7 +22,7 @@ To overcome this, the leadership required a data-driven visualization system tha
 
 ---
 
-## What This Project Covers  
+## This Project Covers  
 
 ### Data Analysis Using SQL  
 - Created relational tables for customers, products, markets, and sales in **MySQL**.  
@@ -80,7 +80,7 @@ Highlights profit trends, margins, and profitability by region and customer segm
 
 - [Codebasics: Sales Insights Project Repository](https://github.com/codebasics/DataAnalysisProjects/tree/master/2_SalesInsightsTableau)  
 - [https://dev.mysql.com/doc/](https://dev.mysql.com/doc/)  
-- [https://help.tableau.com/](https://help.tableau.com/)  
+- [https://help.tableau.com/](https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.htm?)  
 
 ---
 
